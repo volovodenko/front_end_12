@@ -1,0 +1,14 @@
+.add input, .add textarea, .add label, .add button {
+    margin: 10px auto;
+    display: block;
+}
+
+.add textarea {
+    width: 400px;
+    height: 50px;
+
+}
+
+.add label input {
+    display: inline-block;
+}

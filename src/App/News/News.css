@@ -1,0 +1,7 @@
+.News {
+    width: 50%;
+    background-color: gray;
+    margin: 0 auto;
+    border: 2px solid black;
+    box-shadow: 4px 4px 10px black;
+}
